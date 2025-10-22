@@ -1,0 +1,5 @@
+Aşağıdaki müşteri e-posta isteğini analiz et, talep türünü belirle ve uygun yanıtı oluştur:
+
+Müşteri E-postası: {{EmailBody}}
+Müşteri E-posta Adresi: {{EmailAddress}}
+
